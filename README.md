@@ -1,3 +1,2 @@
 # Graph Traversal Algorithm
-Implementation of Breadth First Search Algorithm in Java.
-The code belongs to Koushik Sarkar
+Implementation of Breadth First Search and Depth First Search Algorithms in Java.
