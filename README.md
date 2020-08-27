@@ -10,4 +10,4 @@ each line contains the Edge name as per the following format:
 > Vertex1Vertex2; Example, AB, CD and so on, where AB is a directed edge from vertex A to vertex B.
 There should be no space in between the Vertex names.
 
-The ***TestRunStaticInput*** file has the Input Graph in the code itself; Self explanatory.
+The ***TestRunStaticInput*** file has the Input Graph provided in the code itself; Self explanatory.
