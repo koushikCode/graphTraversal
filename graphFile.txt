@@ -1,0 +1,10 @@
+ABCDEFG
+AB
+AG
+AC
+BF
+CE
+EG
+FD
+FG
+GB
